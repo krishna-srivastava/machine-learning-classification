@@ -1,4 +1,4 @@
-# Machine Learning Practice
+# Supervised Learning Practice
 
 This repository contains my **machine learning practice projects** where I work with different datasets to understand and implement machine learning algorithms.
 
